@@ -2,6 +2,10 @@
 .PHONY: all
 all: index.html syntax.html
 
+.PHONY: clean
+clean:
+	-rm -f index.html syntax.html
+
 index.html: README.md head.html foot.html
 	cp head.html index.html
 	./Markdown.pl README.md >> index.html
