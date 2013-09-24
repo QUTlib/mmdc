@@ -27,7 +27,8 @@ script -- which means it can also be used as a text filter in BBEdit
 (or any other application that supporst filters written in Perl).
 
 Full documentation of Markdown's syntax and configuration options is
-available on the web: <http://daringfireball.net/projects/markdown/>.
+available on the web: <http://phluid61.github.io/mmdc/> and
+[/syntax.html](http://phluid61.github.io/mmdc/syntax.html)
 (Note: this readme file is formatted in Markdown.)
 
 
