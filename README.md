@@ -166,8 +166,7 @@ Bugs
 ----
 
 To file bug reports or feature requests please use the issue tracker at:
-
-    https://github.com/phluid61/mmdc/issues
+https://github.com/phluid61/mmdc/issues
 
 
 
