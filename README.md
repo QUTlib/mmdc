@@ -3,11 +3,11 @@ Matty's Markdown Clone
 
 Version 1.1 - Tue 24 Sep 2013
 
-by Matthew Kerwin
+by Matthew Kerwin  
 <http://matthew.kerwin.net.au/>
 
-Derived from Markdown
-by John Gruber
+Derived from Markdown  
+by John Gruber  
 <http://daringfireball.net/>
 
 
@@ -27,7 +27,8 @@ script -- which means it can also be used as a text filter in BBEdit
 (or any other application that supporst filters written in Perl).
 
 Full documentation of Markdown's syntax and configuration options is
-available on the web: <http://daringfireball.net/projects/markdown/>.
+available on the web: <http://phluid61.github.io/mmdc/> and
+[/syntax.html](http://phluid61.github.io/mmdc/syntax.html)
 (Note: this readme file is formatted in Markdown.)
 
 
@@ -313,8 +314,8 @@ Version History
 Copyright and License
 ---------------------
 
-Copyright (c) 2013 Matthew Kerwin
-<http://matthew.kerwin.net.au/>
+Copyright (c) 2013 Matthew Kerwin  
+<http://matthew.kerwin.net.au/>  
 All rights reserved.
 
 Copyright (c) 2003-2004 John Gruber   
