@@ -3,11 +3,11 @@ Matty's Markdown Clone
 
 Version 1.1 - Tue 24 Sep 2013
 
-by Matthew Kerwin
+by Matthew Kerwin  
 <http://matthew.kerwin.net.au/>
 
-Derived from Markdown
-by John Gruber
+Derived from Markdown  
+by John Gruber  
 <http://daringfireball.net/>
 
 
@@ -313,8 +313,8 @@ Version History
 Copyright and License
 ---------------------
 
-Copyright (c) 2013 Matthew Kerwin
-<http://matthew.kerwin.net.au/>
+Copyright (c) 2013 Matthew Kerwin  
+<http://matthew.kerwin.net.au/>  
 All rights reserved.
 
 Copyright (c) 2003-2004 John Gruber   
