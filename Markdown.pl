@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+# vim: ts=4 sts=4 sw=4
 
 #
 # Markdown -- A text-to-HTML conversion tool for web writers
@@ -1039,10 +1040,10 @@ sub _DoItalicsAndBold {
 	my $text = shift;
 
 	# <strong> must go before <em> and <u>:
-	$text =~ s{ (?<!\w) (\*\*|__) (?=\S) (.+?[*_]*) (?<=\S) \1 (?!\w) }
+	$text =~ s{ (\*\*|__) (?=\S) (.+?[*_]*) (?<=\S) \1 }
 		{<strong>$2</strong>}gsx;
 
-	$text =~ s{ (?<!\w) (\*) (?=\S) (.+?) (?<=\S) \1 (?!\w) }
+	$text =~ s{ (\*) (?=\S) (.+?) (?<=\S) \1 }
 		{<em>$2</em>}gsx;
 	$text =~ s{ (?<!\w) (_) (?=\S) (.+?) (?<=\S) \1 (?!\w) }
 		{<u>$2</u>}gsx;
