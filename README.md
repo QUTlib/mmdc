@@ -180,7 +180,7 @@ Version History
 	(<https://github.com/vmg/redcarpet>); namely:
 	* no intra-emphasis (`foo_bar_baz`) will not be marked up
 	* strikethrough: (`this is ~~bad~~ good`)
-	* underline: (`this is _underlined_ and this is *italic*)
+	* underline: (`this is _underlined_ and this is *italic*`)
 
 1.0.1 (14 Dec 2004):
 
