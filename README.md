@@ -174,6 +174,10 @@ https://github.com/phluid61/mmdc/issues
 Version History
 ---------------
 
+1.1.1
+
++	Added escapes for `~~`
+
 1.1
 
 +	Borrowed some syntax prompts from GitHub flavored markdown
