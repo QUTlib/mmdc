@@ -1,5 +1,5 @@
 Matty's Markdown Clone is derived from Markdown by John Gruber.
-Refer to the attached Markdown License file for that product's
+Refer to the attached [Markdown License][1] file for that product's
 licensing terms.
 
 -----
@@ -35,3 +35,4 @@ liability, whether in contract, strict liability, or tort (including
 negligence or otherwise) arising in any way out of the use of this
 software, even if advised of the possibility of such damage.
 
+[1]: Markdown_License.md

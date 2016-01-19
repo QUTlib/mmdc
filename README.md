@@ -326,29 +326,21 @@ Copyright (c) 2003-2004 John Gruber
 <http://daringfireball.net/>   
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
+See the attached [LICENSE](LICENSE.md)
 
-* Redistributions of source code must retain the above copyright notice,
-  this list of conditions and the following disclaimer.
+Matty's Markdown Clone is derived from Markdown by John Gruber.
+Refer to the attached [Markdown License][1] file for that product's
+licensing terms.
 
-* Redistributions in binary form must reproduce the above copyright
-  notice, this list of conditions and the following disclaimer in the
-  documentation and/or other materials provided with the distribution.
+[1]: Markdown_License.md
 
-* Neither the name "Markdown" nor the names of its contributors may
-  be used to endorse or promote products derived from this software
-  without specific prior written permission.
 
-This software is provided by the copyright holders and contributors "as
-is" and any express or implied warranties, including, but not limited
-to, the implied warranties of merchantability and fitness for a
-particular purpose are disclaimed. In no event shall the copyright owner
-or contributors be liable for any direct, indirect, incidental, special,
-exemplary, or consequential damages (including, but not limited to,
-procurement of substitute goods or services; loss of use, data, or
-profits; or business interruption) however caused and on any theory of
-liability, whether in contract, strict liability, or tort (including
-negligence or otherwise) arising in any way out of the use of this
-software, even if advised of the possibility of such damage.
+Contributor Code of Conduct
+---------------------------
+
+This project adheres to a [Contributor Code of Conduct][2] adapted
+from the [Contributor Covenant][3], version 1.3.0
+
+[2]: code_of_conduct.md
+[3]: http://contributor-covenant.org
+
